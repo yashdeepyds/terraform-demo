@@ -1,2 +1,2 @@
-# ami_id = "ami-0c7217cdde317cfec"
+# ami_id = ""
 # ins_type = "t2.micro"
