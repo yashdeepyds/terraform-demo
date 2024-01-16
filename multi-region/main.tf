@@ -11,6 +11,6 @@ provider "aws"{
 resource "aws_instance" "exam-1"{
 	ami = ""
 	instance_type = "t2.micro"
-	provider = "aws.us-east-1"
+	provider = "aws.<alias>"
 }
 
